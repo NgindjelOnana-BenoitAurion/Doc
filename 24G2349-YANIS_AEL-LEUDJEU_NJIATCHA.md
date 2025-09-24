@@ -1,9 +1,9 @@
-Cahier de suivi individuel — INF231 (TP)
-Étudiant : Leudjeu Njiatcha Yanis Ael
-Matricule : 24G2349
-Groupe : INF231_EC2
-Exercices attribués :
+- Cahier de suivi individuel — INF231 (TP)
+- Étudiant : Leudjeu Njiatcha Yanis Ael
+- Matricule : 24G2349
+- Groupe : INF231_EC2
 
+Exercices attribués :
 Recherche séquentielle dans un tableau (Recherche_Sequentielle.c)
 Vérification si un tableau est trié (Verification_Triage.c)
 
